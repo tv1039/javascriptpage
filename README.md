@@ -3,5 +3,5 @@
 clock
 location.storge
 toDoList
-background
-weather
+random background-img
+weather API 
