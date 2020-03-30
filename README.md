@@ -2,7 +2,7 @@
 
 clock
 
-location.storge
+localStorage
 
 toDoList
 
